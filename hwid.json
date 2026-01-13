@@ -1,0 +1,11 @@
+{
+  "admin": [
+    {
+      "username": "bhai_ka_user",
+      "password": "yahan_bcrypt_hash_hoga",
+      "expiry": "2026-12-31",
+      "subscription": "aimkillapk",
+      "device_id": ""
+    }
+  ]
+}
