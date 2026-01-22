@@ -34,6 +34,27 @@
             "expiry": "2026-12-31",
             "subscription": "aimkillapk",
             "device_id": ""
+        },
+        {
+            "username": "AIR",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "AIRXHACKER",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "AAMIR BHAAI",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
         }
     ]
 }
