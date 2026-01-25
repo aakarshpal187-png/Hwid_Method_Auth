@@ -1,110 +1,110 @@
 {
     "admin": [
-  {
-    "username": "RAYS-1",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-2",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-3",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-4",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-5",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-6",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-7",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-8",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-9",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-10",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-11",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-12",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-13",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-14",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
-  {
-    "username": "RAYS-15",
-    "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
-    "expiry": "2026-12-31",
-    "subscription": "aimkillapk",
-    "device_id": ""
-  },
+        {
+            "username": "RAYS-1",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": "ba5eb94d0c1dc1ca"
+        },
+        {
+            "username": "RAYS-2",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-3",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-4",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-5",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-6",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-7",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-8",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-9",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-10",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-11",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-12",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-13",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-14",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
+        {
+            "username": "RAYS-15",
+            "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
+            "expiry": "2026-12-31",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        },
         {
             "username": "AAMIR",
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
