@@ -1,18 +1,20 @@
 {
     "admin": [
-                                {
+        {
             "username": "DHAL2",
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
             "expiry": "2026-12-31",
             "subscription": "aimkillapk",
             "device_id": ""
-        },{
+        },
+        {
             "username": "DHAL",
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
             "expiry": "2026-12-31",
             "subscription": "aimkillapk",
-            "device_id": ""
-        },{
+            "device_id": "2301b6a7623c8bee"
+        },
+        {
             "username": "RAYS-21",
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
             "expiry": "2026-12-31",
