@@ -1,12 +1,13 @@
 {
     "admin": [
-                {
+        {
             "username": "xcho",
-            "password": "$2a$12$WwZIM.bwTToXsfF6ETrZH.xsjqC2KMMuiOjJupMdB4KchfeI/e7Z.",
+            "password": "$2a$12$WwZIM.bwTToXsfF6ETrZH.xsjqC2KMMuiOjJupMdB4KchfeI\/e7Z.",
             "expiry": "2026-12-31",
             "subscription": "aimkillapk",
             "device_id": "0d8e674db00d35b3"
-        },{
+        },
+        {
             "username": "DHAL2",
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
             "expiry": "2026-12-31",
@@ -130,7 +131,7 @@
             "password": "$2a$12$D4YKrzUX0z0WgCTJ.d37MOtw5QmrwEqBw.XSRFThqEadI4743pqwq",
             "expiry": "2026-12-31",
             "subscription": "aimkillapk",
-            "device_id": ""
+            "device_id": "8ac1fee1738edb24"
         },
         {
             "username": "RAYS-13",
